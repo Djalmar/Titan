@@ -9,5 +9,6 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <TextBlock>EPIC change git</TextBlock>
+        <TextBlock>EPIC 2 changes</TextBlock>
     </Grid>
 </Page>
